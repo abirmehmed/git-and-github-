@@ -1,5 +1,5 @@
 
-# **Git & GitHub: 
+# **Git & GitHub: **
 *(Comprehensive, structured, and industry-standard approach)*  
 
 ---
